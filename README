@@ -1,10 +1,19 @@
+## Project Website:
+
+http://mactimelog.splyer.com/
+
+# Setup
 Make sure to get latest Growl SDK http://growl.info/
 and put it into
 
 lib/
 
-Get durus package 
+Get durus package
   http://www.mems-exchange.org/software/durus/
 and copy to
 
 lib/
+
+
+# Launchpad Bugtracker:
+https://launchpad.net/mactimelog
